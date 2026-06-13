@@ -1,4 +1,4 @@
-# 📊 Analisis Kesenjangan Narasi: Media Massa vs Opini Publik (Studi Kasus Dollar Rp18.000)
+Analisis Kesenjangan Narasi: Media Massa vs Opini Publik (Studi Kasus Dollar Rp18.000)
 
 Repositori KS-UHUY ini memuat source code lengkap untuk mengekstraksi, menganalisis, dan memvisualisasikan perbedaan narasi antara pemberitaan media massa resmi (Kompas) dan opini publik di media sosial (Instagram). 
 
